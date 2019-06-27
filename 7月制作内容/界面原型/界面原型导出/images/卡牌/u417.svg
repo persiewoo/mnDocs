@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="467px" height="100px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="574px" height="120px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="289.5" y1="899" x2="289.5" y2="999" id="LinearGradient823">
-      <stop id="Stop824" stop-color="#ffffff" offset="0" />
-      <stop id="Stop825" stop-color="#f2f2f2" offset="0" />
-      <stop id="Stop826" stop-color="#e4e4e4" offset="1" />
-      <stop id="Stop827" stop-color="#ffffff" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="329" y1="890" x2="329" y2="1010" id="LinearGradient36">
+      <stop id="Stop37" stop-color="#ffffff" offset="0" />
+      <stop id="Stop38" stop-color="#f2f2f2" offset="0" />
+      <stop id="Stop39" stop-color="#e4e4e4" offset="1" />
+      <stop id="Stop40" stop-color="#ffffff" offset="1" />
     </linearGradient>
   </defs>
-  <g transform="matrix(1 0 0 1 -56 -899 )">
-    <path d="M 56.5 914.0936095683  L 71.0936095682997 899.5  L 507.9063904317 899.5  L 522.5 914.0936095683  L 522.5 983.9063904317  L 507.9063904317 998.5  L 71.0936095682997 998.5  L 56.5 983.9063904317  L 56.5 914.0936095683  Z " fill-rule="nonzero" fill="url(#LinearGradient823)" stroke="none" />
-    <path d="M 56.5 914.0936095683  L 71.0936095682997 899.5  L 507.9063904317 899.5  L 522.5 914.0936095683  L 522.5 983.9063904317  L 507.9063904317 998.5  L 71.0936095682997 998.5  L 56.5 983.9063904317  L 56.5 914.0936095683  Z " stroke-width="1" stroke="#797979" fill="none" />
+  <g transform="matrix(1 0 0 1 -42 -890 )">
+    <path d="M 42.5 908.091736749331  L 60.0917367493314 890.5  L 597.908263250669 890.5  L 615.5 908.091736749331  L 615.5 991.908263250669  L 597.908263250669 1009.5  L 60.0917367493314 1009.5  L 42.5 991.908263250669  L 42.5 908.091736749331  Z " fill-rule="nonzero" fill="url(#LinearGradient36)" stroke="none" />
+    <path d="M 42.5 908.091736749331  L 60.0917367493314 890.5  L 597.908263250669 890.5  L 615.5 908.091736749331  L 615.5 991.908263250669  L 597.908263250669 1009.5  L 60.0917367493314 1009.5  L 42.5 991.908263250669  L 42.5 908.091736749331  Z " stroke-width="1" stroke="#797979" fill="none" />
   </g>
 </svg>
