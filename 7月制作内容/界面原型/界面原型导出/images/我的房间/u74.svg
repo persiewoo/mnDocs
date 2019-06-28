@@ -1,7 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="87px" height="56px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -305 -442 )">
-    <path d="M 350.027559055118 497.08522237658  L 391.112398621842 470  L 350.027559055118 442.91477762342  L 350.027559055118 458.314814814815  L 305.5 458.314814814815  L 305.5 481.685185185185  L 350.027559055118 481.685185185185  L 350.027559055118 497.08522237658  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-    <path d="M 349.527559055118 498  L 392 470  L 349.527559055118 442  L 349.527559055118 457.814814814815  L 305 457.814814814815  L 305 482.185185185185  L 349.527559055118 482.185185185185  L 349.527559055118 498  Z M 390.224797243684 470  L 350.527559055118 496.170444753159  L 350.527559055118 481.185185185185  L 306 481.185185185185  L 306 458.814814814815  L 350.527559055118 458.814814814815  L 350.527559055118 443.829555246841  L 390.224797243684 470  Z " fill-rule="nonzero" fill="#797979" stroke="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="83px" height="47px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="678.5" y1="1266" x2="678.5" y2="1313" id="LinearGradient487">
+      <stop id="Stop488" stop-color="#ffffff" offset="0" />
+      <stop id="Stop489" stop-color="#f2f2f2" offset="0" />
+      <stop id="Stop490" stop-color="#e4e4e4" offset="1" />
+      <stop id="Stop491" stop-color="#ffffff" offset="1" />
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -637 -1266 )">
+    <path d="M 637.569930592387 1289.5  L 651.369930592387 1266.5  L 705.630069407613 1266.5  L 719.430069407613 1289.5  L 705.630069407613 1312.5  L 651.369930592387 1312.5  L 637.569930592387 1289.5  Z " fill-rule="nonzero" fill="url(#LinearGradient487)" stroke="none" />
+    <path d="M 637 1289.5  L 651.1 1266  L 705.9 1266  L 720 1289.5  L 705.9 1313  L 651.1 1313  L 637 1289.5  Z M 651.639861184775 1267  L 638.139861184775 1289.5  L 651.639861184775 1312  L 705.360138815225 1312  L 718.860138815225 1289.5  L 705.360138815225 1267  L 651.639861184775 1267  Z " fill-rule="nonzero" fill="#797979" stroke="none" />
   </g>
 </svg>
