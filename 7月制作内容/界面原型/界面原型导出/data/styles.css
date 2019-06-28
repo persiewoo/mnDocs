@@ -100,4 +100,7 @@
 .primary_button {
   color:#FFFFFF;
 }
+._图片_ {
+  color:#000000;
+}
 textarea, select, input, button { outline: none; }

@@ -1,15 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="620px" height="120px" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="317" y1="1018" x2="317" y2="1138" id="LinearGradient833">
-      <stop id="Stop834" stop-color="#ffffff" offset="0" />
-      <stop id="Stop835" stop-color="#f2f2f2" offset="0" />
-      <stop id="Stop836" stop-color="#e4e4e4" offset="1" />
-      <stop id="Stop837" stop-color="#ffffff" offset="1" />
-    </linearGradient>
-  </defs>
-  <g transform="matrix(1 0 0 1 -7 -1018 )">
-    <path d="M 7.5 1036.08590087858  L 25.0859008785781 1018.5  L 608.914099121422 1018.5  L 626.5 1036.08590087858  L 626.5 1119.91409912142  L 608.914099121422 1137.5  L 25.0859008785781 1137.5  L 7.5 1119.91409912142  L 7.5 1036.08590087858  Z " fill-rule="nonzero" fill="url(#LinearGradient833)" stroke="none" />
-    <path d="M 7.5 1036.08590087858  L 25.0859008785781 1018.5  L 608.914099121422 1018.5  L 626.5 1036.08590087858  L 626.5 1119.91409912142  L 608.914099121422 1137.5  L 25.0859008785781 1137.5  L 7.5 1119.91409912142  L 7.5 1036.08590087858  Z " stroke-width="1" stroke="#797979" fill="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="80px" height="77px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -198 -631 )">
+    <path d="M 198 631  L 278 631  L 278 708  L 198 708  L 198 631  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
+    <path d="M 203 636  L 273 636  L 273 703  L 203 703  L 203 636  " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+    <path d="M 245.375 654.1  C 242.141 654.1  239.6 651.559  239.6 648.325  C 239.6 645.091  242.141 642.55  245.375 642.55  C 248.609 642.55  251.15 645.091  251.15 648.325  C 251.15 651.559  248.609 654.1  245.375 654.1  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
+    <path d="M 205 701  L 205 666.35  L 221.5 650.6  L 244.6 664.6175  L 257.8 660.05  L 271 664.6175  L 271 701  L 205 701  " fill-rule="nonzero" fill="#169bd5" stroke="none" />
   </g>
 </svg>
