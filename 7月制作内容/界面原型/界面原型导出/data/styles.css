@@ -93,7 +93,12 @@
 .marker {
   color:#FFFFFF;
 }
+.form_disabled {
+}
 .line {
+}
+.checkbox {
+  text-align:left;
 }
 .button {
 }
