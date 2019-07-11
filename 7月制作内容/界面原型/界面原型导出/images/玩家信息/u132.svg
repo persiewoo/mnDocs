@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="40px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -672 -506 )">
+    <path d="M 692 506  C 703.2 506  712 514.8  712 526  C 712 537.2  703.2 546  692 546  C 680.8 546  672 537.2  672 526  C 672 514.8  680.8 506  692 506  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+    <path d="M 692 506.5  C 702.92 506.5  711.5 515.08  711.5 526  C 711.5 536.92  702.92 545.5  692 545.5  C 681.08 545.5  672.5 536.92  672.5 526  C 672.5 515.08  681.08 506.5  692 506.5  Z " stroke-width="1" stroke="#797979" fill="none" />
+  </g>
+</svg>
